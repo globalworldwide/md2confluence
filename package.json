@@ -1,6 +1,6 @@
 {
   "name": "@globalworldwide/md2confluence",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "Update confluence pages from your markdown files (like a README.md)",
   "main": "dist/index.js",
   "bin": {
