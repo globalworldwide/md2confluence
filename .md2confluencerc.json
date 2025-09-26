@@ -1,7 +1,6 @@
 {
-  "baseUrl": "https://globalworldwide.atlassian.net/wiki/rest/api",
+  "baseUrl": "https://globalworldwide.atlassian.net/wiki/api/v2",
   "user": "matthew@globalworldwide.com",
-  "pass": "9PBNar5qhvOffsCbSZkJA7C6",
   "prefix": "This document is auto-generated from content in https://github.com/globalworldwide/km-server/tree/master/{path}, changes made here will be lost.",
   "include": [
     "./test/*.md"
